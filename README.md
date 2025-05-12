@@ -23,7 +23,7 @@
 ## 📥 Pobierz
 
 > Aktualny obraz ISO można pobrać tutaj:  
-👉 **[kutasiarkaos.org/download](https://kutasiarkaos.org/download)** (link przykładowy)
+👉 **f**
 
 ## 🛠️ Instalacja
 
